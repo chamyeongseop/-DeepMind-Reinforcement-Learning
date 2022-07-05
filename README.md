@@ -17,4 +17,6 @@
 [slides](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf) 
 [video](https://www.youtube.com/watch?v=zSOMeug_i_M&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=3)
 
-### 4. MDPs and Dynamic Programming
+### 4. Theoretical Fund. of Dynamic Programming Algorithms
+[slides](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%204%20-%20Theoretical%20Fundamentals%20of%20DP%20Algorithms.pdf) 
+[video](https://www.youtube.com/watch?v=XpbLq7rIJAA&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=4)
