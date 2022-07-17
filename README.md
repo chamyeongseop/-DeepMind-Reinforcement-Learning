@@ -19,3 +19,8 @@
 ### 4. Theoretical Fund. of Dynamic Programming Algorithms
 [slides](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%204%20-%20Theoretical%20Fundamentals%20of%20DP%20Algorithms.pdf) 
 [video](https://www.youtube.com/watch?v=XpbLq7rIJAA&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=4)
+
+
+5. Theoretical Fund. of Dynamic Programming Algorithms
+[slides](https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%204%20-%20Theoretical%20Fundamentals%20of%20DP%20Algorithms.pdf) 
+[video](https://www.youtube.com/watch?v=XpbLq7rIJAA&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=4)
